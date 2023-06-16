@@ -3631,9 +3631,7 @@ c-logo-img img {
 .o-row.hm-hero_title {
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
+    text-align: left;
 }
 
 .o-row.sec-header {
